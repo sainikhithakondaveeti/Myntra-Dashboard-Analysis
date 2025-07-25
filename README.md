@@ -1,4 +1,4 @@
-🛍️ 2024 Myntra Sales Analysis – Power BI Dashboard
+🛍️Myntra Sales Analysis – Power BI Dashboard
 
 This Power BI project presents an in-depth analysis of Myntra's sales and product performance data. The dashboard reveals key business metrics such as revenue, discounting impact, top-selling categories, and customer preferences using interactive visuals.
 
